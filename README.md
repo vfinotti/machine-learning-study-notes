@@ -1,2 +1,2 @@
-# machine_learning_study_notes
+# machine-learning-study-notes
 Jupyter notebooks with interesting notes about Machine Learning topics
